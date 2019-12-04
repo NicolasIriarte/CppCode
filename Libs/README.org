@@ -1,0 +1,14 @@
+* The repository
+  This repository holds some sources files and code snippets useful on
+  differents situations.
+  
+** Benchmark
+   With this code snippet we can know the time between two events. For example
+   we can know the time between the creation of a very big array and its fill.
+
+   This code snippet creates a timer on its constructor and calculate the time
+   on its destruction. For more reading please follow this page.
+
+   This code is base by [[https://www.youtube.com/watch?v=YG4jexlSAjc&t][this]] video. I'm not the author of this source code, I
+   only transcribe and distribute.
+
