@@ -20,6 +20,16 @@
    Description of tools, codes, or ideas about C++, this could be classes,
    heritage, lambdas, etc.
 
+* Tasks
+  - Choose a Code style and apply to all files.
+    - Document code style used on all the files.
+  - Rename .c files to .cpp.
+  - Review all the code (Some are old files).
+  - Make .gitignore.
+  - Add all CMakeLists.txt remaining.
+  - Choose and use a single "destination" for build/compile all the folders,
+    this will avoid multiples "Tutorials" of how to compile files.
+
 * About me
   Feel free to contact me on any of this platforms:
   - Telegram: [[https://t.me/NicolasIriarte][@NicolasIriarte]] (Personal contact)
