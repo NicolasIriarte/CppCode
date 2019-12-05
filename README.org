@@ -20,14 +20,28 @@
    Description of tools, codes, or ideas about C++, this could be classes,
    heritage, lambdas, etc.
 
-* Tasks [1/7]
+   
+* How do I compile this code?
+  To compile this code clone the repository, and open a terminal inside. Then:
+
+  #+BEGIN_SRC sh
+    cd path/to/directory
+    mkdir build
+    cd build
+    cmake ..
+    make
+  #+END_SRC
+
+  Now you find a "bin/" folder with the binary inside.
+
+* Tasks [2/7]
   - [ ] Choose a Code style and apply to all files.
   - [ ] Document code style used on all the files.
   - [X] Rename .c files to .cpp.
   - [ ] Review all the code (Some are old files).
   - [ ] Make .gitignore.
   - [ ] Add all CMakeLists.txt remaining.
-  - [ ] Choose and use a single "destination" for build/compile all the folders,
+  - [X] Choose and use a single "destination" for build/compile all the folders,
     this will avoid multiples "Tutorials" of how to compile files.
 
 * About me
