@@ -1,0 +1,8 @@
+* Socket
+  Simple socket conection between client and server, it allow to send message of
+  arbitrary size.
+
+* x11
+  Multiples explambles of x11, and a simple barebone abstracción to C++ founded
+  on [[https://linuxgazette.net/issue78/tougher.html][this]] page. The folder called "xlib++" is not mine, the author is called
+  "Rob Tougher" and you can see it copyright and licence [[http://www.linuxgazette.net/copying.html][here]].

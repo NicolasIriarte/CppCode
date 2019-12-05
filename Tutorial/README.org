@@ -1,1 +1,15 @@
-TODO:
+* This directory
+  It holds tutorials for a particular case, all of this folders can be compilled
+  with:
+  #+BEGIN_SRC sh
+    cd folder/you/want/to/compile
+    mkdir build
+    cd build
+    cmake ..
+    make
+    cd bin/
+    ./PROGRAM_NAME
+  #+END_SRC
+* 001-Structure_of_a_Cpp_Program
+  Most simple program on C++. It introduces main function, import library, and
+  the "Hello world!".

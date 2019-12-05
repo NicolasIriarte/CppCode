@@ -1,0 +1,28 @@
+* This repository
+  On this repository I'll save all types of code and resources about C++, the
+  goal is to have a single repository to hold all the snippets, mini-projects,
+  mini-libraries, documentation and concepts I usually forget.
+  
+  Here is a general desciption of the repository structure, if you want more
+  information go inside the wanted directory, there should be a README with
+  further information.
+  
+** Libs
+   Some libraries of general purposes.
+
+** Resources
+   Code from differet pages, it serves to stop googling always the same.
+
+** Snippets
+   Some pieces of code of general purpose, in general functions.
+
+** Tutorial
+   Description of tools, codes, or ideas about C++, this could be classes,
+   heritage, lambdas, etc.
+
+* About me
+  Feel free to contact me on any of this platforms:
+  - Telegram: [[https://t.me/NicolasIriarte][@NicolasIriarte]] (Personal contact)
+  - Twitter: [[https://twitter.com/NicolasIriarte0][@NicolasIriarte0]]
+  - Mail: [[mailto:NicolasIriarte95@gmail.com][NicolasIriarte95@gmail.com]]
+    
