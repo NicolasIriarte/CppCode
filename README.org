@@ -7,6 +7,7 @@
   information go inside the wanted directory, there should be a README with
   further information.
   
+  
 ** Libs
    Some libraries of general purposes.
 
@@ -20,19 +21,33 @@
    Description of tools, codes, or ideas about C++, this could be classes,
    heritage, lambdas, etc.
 
-   
-* How do I compile this code?
-  To compile this code clone the repository, and open a terminal inside. Then:
+ 
+* Conventions  
+  To simplify all the source code I made some conventions, like the code-style
+  used on this repository and the project structure to easy build/compile.
 
-  #+BEGIN_SRC sh
-    cd path/to/directory
-    mkdir build
-    cd build
-    cmake ..
-    make
-  #+END_SRC
+** How do I compile this code?
+   I tried to have a single method to compile all the projects. To archive this
+   goal I only use CMake. To compile any code clone the repository, and open a
+   terminal inside. Then:
 
-  Now you find a "bin/" folder with the binary inside.
+   #+BEGIN_SRC sh
+     cd path/to/directory
+     mkdir build
+     cd build
+     cmake ..
+     make
+   #+END_SRC
+
+   Now you find a "bin/" folder with the binary inside.
+
+   If you found any directory with build error, or a different method, please
+   contact me.
+
+** Code style
+   I will try to format all the code with the following convenctions:
+   - Variables name:
+     
 
 * Tasks [2/7]
   - [ ] Choose a Code style and apply to all files.

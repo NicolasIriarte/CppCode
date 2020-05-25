@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.11)
+project(0004)
+# PROJECT(Sample)
+enable_language(CXX)
+include_directories(include)
+add_subdirectory(src)
