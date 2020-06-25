@@ -1,6 +1,8 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/emacs,c,c++,cmake,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=emacs,c,c++,cmake,linux
+
+### OWN ###
+in.txt
 
 ### C ###
 # Prerequisites
