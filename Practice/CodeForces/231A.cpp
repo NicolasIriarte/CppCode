@@ -1,14 +1,12 @@
-// -*- compile-command: "g++ -g -Wall 231A.cpp -o 231A && cat in.txt | ./231A" -*-
+// -*- compile-command: "g++ -Wall 231A.cpp -o a && cat in.txt | ./a; rm a" -*-
 
-/* 
+/*
  * Author: Nicolás Iriarte.
  * E-Mail: NicolasIriarte95@gmail.com
  * Telegram: @NicolasIriarte
  * Creation date: 06/25/20 5:51 PM
- * URL: 
+ * URL: https://codeforces.com/problemset/problem/231/A
  */
-
-// https://codeforces.com/problemset/problem/231/A
 
 #include <bits/stdc++.h>
 
@@ -19,9 +17,9 @@ using namespace std;
 int main(int argc, char **argv) {
   int n;
   cin >> n;
-  int a,b,c;
+  int a, b, c;
   int tot = 0;
-  for(int i = 0; i < n; ++i){
+  for (int i = 0; i < n; ++i) {
     cin >> a >> b >> c;
     a += b + c;
     if (a > 1)
@@ -40,7 +38,7 @@ int main(int argc, char **argv) {
   Output:                    standart output.
 
   Description:
-  
+
   One day three best friends Petya, Vasya and Tonya decided to form a team and
   take part in programming contests. Participants are usually offered several
   problems during programming contests. Long before the start the friends
@@ -52,7 +50,7 @@ int main(int argc, char **argv) {
   problems for which they will write a solution.
 
   Input:
-  
+
   The first input line contains a single integer n (1 ≤ n ≤ 1000) — the number
   of problems in the contest. Then n lines contain three integers each, each
   integer is either 0 or 1. If the first number in the line equals 1, then Petya
@@ -61,9 +59,8 @@ int main(int argc, char **argv) {
   view. The numbers on the lines are separated by spaces.
 
   Output:
-  
+
   Print a single integer — the number of problems the friends will implement on
   the contest.
 
 */
-

@@ -1,4 +1,4 @@
-* A. Theatre Square ([[https://codeforces.com/problemset/problem/71/A][URL]])
+* A. Way Too Long Words ([[https://codeforces.com/problemset/problem/71/A][URL]])
 |-----------------------+-----------------|
 | Conditions            |                 |
 |-----------------------+-----------------|
