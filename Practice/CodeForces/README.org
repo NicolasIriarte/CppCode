@@ -1,10 +1,9 @@
 * Folder description
-  Solutions of problems uploaded to [[https://codeforces.com/][CodeForces]]. If you want to read the problem
-  description you can find it under the [[./Descriptions/]['Descriptions']] directory.
+  Solutions of problems uploaded to [[https://codeforces.com/][CodeForces]].
 
   All the files in this folder were created by me and are licensed under
   GPLv3. Please read the [[./LICENSE][LICENSE]] file for more information.
 
-  I'm NOT author of the content of the [[./Descriptions/]['Descriptions']] directory, I only copy the
-  problem description from [[https://codeforces.com/][CodeForces]] page. Refer to [[https://codeforces.com/][codeforces]] for its
+  I'm NOT author of the problems itself, ONLY of the resolutions. I only copy
+  the problem description from [[https://codeforces.com/][CodeForces]] page. Refer to [[https://codeforces.com/][codeforces]] for its
   corresponding license.
