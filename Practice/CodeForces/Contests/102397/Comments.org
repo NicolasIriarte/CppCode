@@ -1,0 +1,7 @@
+* Comments
+  This was mi first GYM practice. I started taking my times, but since it took
+  too long solving the problems I stop doing it.
+  
+  There was a excercise ([[./102397H.cpp][102397H.cpp]]) that I can't do by myself and a look the solution on
+  intenet, I interpret the solution and I write my own.
+  
