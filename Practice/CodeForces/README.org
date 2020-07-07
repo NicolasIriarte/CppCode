@@ -11,7 +11,7 @@
 * Solutions
   The following tables denotes technical information to measure my
   progress. The both tables are sorted from top to down according to my
-  solution order. On top you can find the latest problem that I solve.
+  solution order. On top you can find the latest problem that I solve. 
 
 ** Problemset
    CN denotes a contest. See the [[Contest][contest]] table for more information.
@@ -22,11 +22,11 @@
 |           |            |            |
 |           |            |            |
 |           |            |            |
-|           |            |            |
-|           |            |            |
-|           |            |            |
+| 152A      |        900 | 1h 5m 35s  |
+| 903A      |        900 | > day *    |
+| 1016A     |        900 | 13m 37s    |
 | 581B      |       1100 | 37m 28s    |
-| 427B      |       1100 | > 1hs      |
+| 427B      |       1100 | > 1hs *    |
 | 535A      |       1000 | 7m 3s      |
 | 805B      |       1000 | 18m 7s     |
 | 122A      |       1000 | 51m 10s    |
@@ -53,6 +53,7 @@
 | 1A.cpp    |       1000 | --         |
 | 4A.cpp    |        800 | --         |
 |-----------+------------+------------|
+
 
 ** Contest
 |-------+------------+------+------------------|
